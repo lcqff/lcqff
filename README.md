@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcqff&layout=compact&theme=)  <!--가장 많이 사용한 언어-->
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcqff&layout=compact&theme=&hide=html,SCSS,python)  <!--가장 많이 사용한 언어-->
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcqff&show_icons=true&theme=radical) <!--README 스탯-->
 </div>
 
