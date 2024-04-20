@@ -13,8 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/lcqff"/>
+  </a> <!--Git Animals-->
+  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcqff&layout=compact&theme=&hide=html,SCSS,python,c%23,shaderLab)  <!--가장 많이 사용한 언어-->
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcqff&show_icons=true&theme=radical) <!--README 스탯-->
 </div>
-
