@@ -53,7 +53,6 @@ Here are some ideas to get you started:
 ## ✍ Blog & Writing
 공부한 내용들을 까먹지 않기 위해 블로그를 작성하고 있어요. <br> 제 공부하는 방법과 문제를 해결하는 방법이 궁금하시다면 놀러오세요.
 
-(...공사 중...)
 <!-- BLOG-POST-LIST:START -->
  [민감정보 처리 방법과 서브모듈 수정 방법](https://lcqff.github.io/doore/2024/07/13/submodule.html) - 2024년 Jul월 13일 <br>
  [구글 소셜 로그인 에러 해결&lpar;Cors, Redirect uri&rpar;](https://lcqff.github.io/doore/2024/07/11/google-login.html) - 2024년 Jul월 11일 <br>
