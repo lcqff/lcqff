@@ -55,11 +55,11 @@ Here are some ideas to get you started:
 
 (...공사 중...)
 <!-- BLOG-POST-LIST:START -->
- [민감정보 처리 방법과 서브모듈 수정 방법](https://lcqff.github.io/doore/2024/07/13/submodule.html) - 2024년 Jul월 13일
- [구글 소셜 로그인 에러 해결&lpar;Cors, Redirect uri&rpar;](https://lcqff.github.io/doore/2024/07/11/google-login.html) - 2024년 Jul월 11일
- [세차새차 비즈콜 서비스 개발 &lpar;2&rpar; -RabbitMQ TTL, DLX, Retry 적용](https://lcqff.github.io/%EC%84%B8%EC%B0%A8%EC%83%88%EC%B0%A8/2024/06/22/rabbitmq2.html) - 2024년 Jun월 22일
- [특정 API의 IP 대역 제한&lpar;AOP, 커스텀 어노테이션, XFF&rpar;](https://lcqff.github.io/%EC%84%B8%EC%B0%A8%EC%83%88%EC%B0%A8/2024/06/15/Ip%EB%8C%80%EC%97%AD%EC%A0%9C%ED%95%9C.html) - 2024년 Jun월 15일
- [블로그 정체 중](https://lcqff.github.io/2024/06/10/ect1.html) - 2024년 Jun월 10일<!-- BLOG-POST-LIST:END -->
+ [민감정보 처리 방법과 서브모듈 수정 방법](https://lcqff.github.io/doore/2024/07/13/submodule.html) - 2024년 Jul월 13일 <br>
+ [구글 소셜 로그인 에러 해결&lpar;Cors, Redirect uri&rpar;](https://lcqff.github.io/doore/2024/07/11/google-login.html) - 2024년 Jul월 11일 <br>
+ [세차새차 비즈콜 서비스 개발 &lpar;2&rpar; -RabbitMQ TTL, DLX, Retry 적용](https://lcqff.github.io/%EC%84%B8%EC%B0%A8%EC%83%88%EC%B0%A8/2024/06/22/rabbitmq2.html) - 2024년 Jun월 22일 <br>
+ [특정 API의 IP 대역 제한&lpar;AOP, 커스텀 어노테이션, XFF&rpar;](https://lcqff.github.io/%EC%84%B8%EC%B0%A8%EC%83%88%EC%B0%A8/2024/06/15/Ip%EB%8C%80%EC%97%AD%EC%A0%9C%ED%95%9C.html) - 2024년 Jun월 15일 <br>
+ [블로그 정체 중](https://lcqff.github.io/2024/06/10/ect1.html) - 2024년 Jun월 10일 <br><!-- BLOG-POST-LIST:END -->
 
 
 
