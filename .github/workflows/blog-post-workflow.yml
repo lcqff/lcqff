@@ -18,5 +18,5 @@ jobs:
         with:
           feed_list: "https://lcqff.github.io/feed"
           date_format: "UTC:yyyy/mm/dd"
-          template: "$newline - $emojiKey(✨,🍀,🔥,🍙,💫,🚀,🌮) [$title]($url) | 🗓️ $date <br>"
+          template: "$newline $emojiKey(✨,🍀,🔥,🍙,💫,🚀,🌮) [$title]($url) | 🗓️ $date <br>"
           max_post_count: 5
