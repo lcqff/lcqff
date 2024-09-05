@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 <br>
 
 ## ✍ Blog & Writing
-공부한 내용들을 까먹지 않기 위해 블로그를 작성하고 있어요. <br> 제 공부하는 방법과 문제를 해결하는 방법이 궁금하시다면 놀러오세요.
+공부한 내용들을 까먹지 않기 위해 블로그를 작성하고 있어요. <br> 제가 공부하는 방법과, 문제를 해결하는 방법이 궁금하시다면 놀러오세요.
 
 <!-- BLOG-POST-LIST:START -->
  ✨ [민감정보 처리 방법과 서브모듈 수정 방법](https://lcqff.github.io/doore/2024/07/13/submodule.html) | 🔖 Spring, Backend, DooRe | 🗓️ 2024/07/13 <br>
