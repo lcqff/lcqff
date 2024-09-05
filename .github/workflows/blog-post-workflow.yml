@@ -17,4 +17,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://lcqff.github.io/feed"
+          date_format: "UTC:yyyy년 mmm월 dd일"
+          template: "[$title]($url) - $date"
           max_post_count: 5
