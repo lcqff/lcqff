@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 <!-- 타이핑 타이틀 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mingzat&weight=500&size=30&duration=7000&pause=4000&color=000000&center=true&vCenter=true&repeat=false&width=1035&lines=%E2%AC%87+Don't+Feed+My+Goose+(It's+Fat)+%E2%AC%87)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mingzat&weight=500&size=30&duration=7000&pause=4000&color=000000&center=true&vCenter=true&repeat=true&width=1035&lines=%E2%AC%87+Don't+Feed+My+Goose+(It's+Fat)+%E2%AC%87)](https://git.io/typing-svg)
 
 <!--스프링 거위(먹이금지)-->
 <a href="https://github.com/devxb/gitanimals"> <img src="https://render.gitanimals.org/lines/lcqff?pet-id=937" width="1000" height="100"/></a>
