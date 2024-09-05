@@ -54,6 +54,8 @@ Here are some ideas to get you started:
 공부한 내용들을 까먹지 않기 위해 블로그를 작성하고 있어요. <br> 제 공부하는 방법과 문제를 해결하는 방법이 궁금하시다면 놀러오세요.
 
 (...공사 중...)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 
