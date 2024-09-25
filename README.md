@@ -54,11 +54,11 @@ Here are some ideas to get you started:
 공부한 내용들을 까먹지 않기 위해 블로그를 작성하고 있어요. <br> 제가 공부하는 방법과, 문제를 해결하는 방법이 궁금하시다면 놀러오세요.
 
 <!-- BLOG-POST-LIST:START -->
- ✨ [디자인패턴&lpar;2&rpar;- 객체 지향](https://lcqff.github.io/java/2024/09/24/design-pattern-2.html) | 🔖 Java, 디자인패턴 | 🗓️ 2024/09/24 <br>
- 🍀 [Github Docker Migration &lpar;feat. CICD docker-compose command not found&rpar;](https://lcqff.github.io/doore/2024/09/04/docker-migration.html) | 🔖 DooRe, troubleShooting, CICD | 🗓️ 2024/09/04 <br>
- 🔥 [디자인패턴&lpar;1&rpar;- 객체 지향](https://lcqff.github.io/java/2024/08/19/design-pattern-1.html) | 🔖 Java, 디자인패턴 | 🗓️ 2024/08/19 <br>
- 🍙 [민감정보 처리 방법과 서브모듈 수정 방법](https://lcqff.github.io/doore/2024/07/13/submodule.html) | 🔖 Spring, Backend, DooRe | 🗓️ 2024/07/13 <br>
- 💫 [구글 소셜 로그인 에러 해결&lpar;Cors, Redirect uri&rpar;](https://lcqff.github.io/doore/2024/07/11/google-login.html) | 🔖 Spring, Backend, DooRe, troubleShooting | 🗓️ 2024/07/11 <br><!-- BLOG-POST-LIST:END -->
+ ✨ [토익 920점 후기](https://lcqff.github.io/%EC%9D%BC%EC%83%81/2024/09/25/toeic.html) | 🔖  | 🗓️ 2024/09/25 <br>
+ 🍀 [디자인패턴&lpar;2&rpar;- 객체 지향](https://lcqff.github.io/java/2024/09/24/design-pattern-2.html) | 🔖 Java, 디자인패턴 | 🗓️ 2024/09/24 <br>
+ 🔥 [Github Docker Migration &lpar;feat. CICD docker-compose command not found&rpar;](https://lcqff.github.io/doore/2024/09/04/docker-migration.html) | 🔖 DooRe, troubleShooting, CICD | 🗓️ 2024/09/04 <br>
+ 🍙 [디자인패턴&lpar;1&rpar;- 객체 지향](https://lcqff.github.io/java/2024/08/19/design-pattern-1.html) | 🔖 Java, 디자인패턴 | 🗓️ 2024/08/19 <br>
+ 💫 [민감정보 처리 방법과 서브모듈 수정 방법](https://lcqff.github.io/doore/2024/07/13/submodule.html) | 🔖 Spring, Backend, DooRe | 🗓️ 2024/07/13 <br><!-- BLOG-POST-LIST:END -->
 
 
 
