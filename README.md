@@ -54,11 +54,11 @@ Here are some ideas to get you started:
 공부한 내용들을 까먹지 않기 위해 블로그를 작성하고 있어요. <br> 제가 공부하는 방법과, 문제를 해결하는 방법이 궁금하시다면 놀러오세요.
 
 <!-- BLOG-POST-LIST:START -->
- ✨ [토익 920점 후기](https://lcqff.github.io/%EC%9D%BC%EC%83%81/2024/09/25/toeic.html) | 🔖  | 🗓️ 2024/09/25 <br>
- 🍀 [디자인패턴&lpar;2&rpar;- 다형성과 추상 타입](https://lcqff.github.io/java/2024/09/24/design-pattern-2.html) | 🔖 Java, 디자인패턴 | 🗓️ 2024/09/24 <br>
- 🔥 [Github Docker Migration &lpar;feat. CICD docker-compose command not found&rpar;](https://lcqff.github.io/doore/2024/09/04/docker-migration.html) | 🔖 DooRe, troubleShooting, CICD | 🗓️ 2024/09/04 <br>
- 🍙 [디자인패턴&lpar;1&rpar;- 객체 지향](https://lcqff.github.io/java/2024/08/19/design-pattern-1.html) | 🔖 Java, 디자인패턴 | 🗓️ 2024/08/19 <br>
- 💫 [민감정보 처리 방법과 서브모듈 수정 방법](https://lcqff.github.io/doore/2024/07/13/submodule.html) | 🔖 Spring, Backend, DooRe | 🗓️ 2024/07/13 <br><!-- BLOG-POST-LIST:END -->
+ ✨ [디자인패턴&lpar;4&rpar;- 설계 원칙 SOLID](https://lcqff.github.io/java/2024/10/01/design-pattern-4.html) | 🔖 Java, 디자인패턴 | 🗓️ 2024/10/01 <br>
+ 🍀 [디자인패턴&lpar;3&rpar;- 재사용 | 상속보단 조립](https://lcqff.github.io/java/2024/09/30/design-pattern-3.html) | 🔖 Java, 디자인패턴 | 🗓️ 2024/09/30 <br>
+ 🔥 [토익 920점 후기](https://lcqff.github.io/%EC%9D%BC%EC%83%81/2024/09/25/toeic.html) | 🔖  | 🗓️ 2024/09/25 <br>
+ 🍙 [디자인패턴&lpar;2&rpar;- 다형성과 추상 타입](https://lcqff.github.io/java/2024/09/24/design-pattern-2.html) | 🔖 Java, 디자인패턴 | 🗓️ 2024/09/24 <br>
+ 💫 [Github Docker Migration &lpar;feat. CICD docker-compose command not found&rpar;](https://lcqff.github.io/doore/2024/09/04/docker-migration.html) | 🔖 DooRe, troubleShooting, CICD | 🗓️ 2024/09/04 <br><!-- BLOG-POST-LIST:END -->
 
 
 
