@@ -25,16 +25,13 @@ Here are some ideas to get you started:
 <a href="https://github.com/devxb/gitanimals"> <img src="https://render.gitanimals.org/lines/lcqff?pet-id=937" width="1000" height="100"/></a>
 안녕하세요 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px"/> 제 Github에 온 걸 환영해요. <br> 제가 공부하는 내용들이 궁금하시다면 아래 두 레파지토리에 놀러오세요.
 
-
-(...공사 중...)
-<!--
   <a href="https://github.com/lcqff/Yeonnu-Java-lab" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lcqff&repo=Yeonnu-Java-lab&theme=dracula&theme=transparent"/>
   </a>
   <a href="https://github.com/lcqff/Yeonnu-Infra-lab" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lcqff&repo=Yeonnu-Infra-lab&theme=dracula&theme=transparent" />
   </a>
--->
+
 
 ##
 
