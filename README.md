@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 공부한 내용들을 까먹지 않기 위해 블로그를 작성하고 있어요. <br> 제가 공부하는 방법과, 문제를 해결하는 방법이 궁금하시다면 놀러오세요.
 
 <!-- BLOG-POST-LIST:START -->
- ✨ [사용자 없는 서비스 성능 테스트하기 &lpar;2&rpar; - JMeter를 사용한 API 성능 측정](https://lcqff.github.io/JMeter/) | 🔖 성능, SOFO | 🗓️ 2025/01/14 <br>
- 🍀 [사용자 없는 서비스 성능 테스트하기 &lpar;1&rpar; - Scouter](https://lcqff.github.io/scouter/) | 🔖 Infra, 성능, SOFO | 🗓️ 2025/01/06 <br>
- 🔥 [디자인패턴&lpar;6&rpar;- 주요 디자인 패턴 &lpar;1/2&rpar;](https://lcqff.github.io/design-pattern-6/) | 🔖 Java, 디자인패턴, Backend-Study | 🗓️ 2024/10/15 <br>
- 🍙 [Spring Security&lpar;1&rpar;- OAuth2 구글 로그인 구현](https://lcqff.github.io/spring-security1/) | 🔖 Spring, Spring Security, SOFO | 🗓️ 2024/10/12 <br>
- 💫 [디자인패턴&lpar;5&rpar;- DI&lpar;Dependency Injection&rpar;와 서비스 로케이터](https://lcqff.github.io/design-pattern-5/) | 🔖 Java, 디자인패턴, Backend-Study | 🗓️ 2024/10/08 <br><!-- BLOG-POST-LIST:END -->
+ ✨ [Spring Security&lpar;2&rpar;- JWT](https://lcqff.github.io/spring-security2/) | 🔖 Spring, Spring Security, SOFO | 🗓️ 2025/01/17 <br>
+ 🍀 [사용자 없는 서비스 성능 테스트하기 &lpar;2&rpar; - JMeter를 사용한 API 성능 측정](https://lcqff.github.io/JMeter/) | 🔖 성능, SOFO | 🗓️ 2025/01/14 <br>
+ 🔥 [사용자 없는 서비스 성능 테스트하기 &lpar;1&rpar; - Scouter](https://lcqff.github.io/scouter/) | 🔖 Infra, 성능, SOFO | 🗓️ 2025/01/06 <br>
+ 🍙 [디자인패턴&lpar;6&rpar;- 주요 디자인 패턴 &lpar;1/2&rpar;](https://lcqff.github.io/design-pattern-6/) | 🔖 Java, 디자인패턴, Backend-Study | 🗓️ 2024/10/15 <br>
+ 💫 [Spring Security&lpar;1&rpar;- OAuth2 구글 로그인 구현](https://lcqff.github.io/spring-security1/) | 🔖 Spring, Spring Security, SOFO | 🗓️ 2024/10/12 <br><!-- BLOG-POST-LIST:END -->
 
 
 
