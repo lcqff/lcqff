@@ -18,10 +18,13 @@ Here are some ideas to get you started:
 
 <div align="center">
 
+
 <!-- 타이핑 타이틀 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mingzat&weight=500&size=30&duration=7000&pause=4000&color=000000&center=true&vCenter=true&repeat=true&width=1035&lines=%E2%AC%87+Don't+Feed+My+Goose+(It's+Fat)+%E2%AC%87)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mingzat&weight=500&size=30&duration=7000&pause=4000&color=000000&center=true&vCenter=true&repeat=true&width=1035&lines=%E2%AC%87+Don't+Feed+My+Goose+(It's+Fat)+%E2%AC%87)](https://git.io/typing-svg)
+-->
 
 <!--스프링 거위(먹이금지)-->
+<!--
 <a href="https://github.com/devxb/gitanimals"> <img src="https://render.gitanimals.org/lines/lcqff?pet-id=937" width="1000" height="100"/></a>
 안녕하세요 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px"/> 제 Github에 온 걸 환영해요. <br> 제가 공부하는 내용들이 궁금하시다면 아래 두 레파지토리에 놀러오세요.
 
@@ -31,7 +34,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/lcqff/Yeonnu-Infra-lab" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lcqff&repo=Yeonnu-Infra-lab&theme=dracula&theme=transparent" />
   </a>
-
+-->
 
 ##
 
@@ -39,11 +42,12 @@ Here are some ideas to get you started:
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-  
-### 📚 Currently Studying...
-![spring security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
 ![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  
+### 📚 Currently Studying...
+![spring security](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+
 
 <br>
 
@@ -83,6 +87,7 @@ Here are some ideas to get you started:
   ![spring security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
   ![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![spring security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
 
   
   -->
