@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 
 
 ### 🔧 Technologies & Tools
+[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/120x120/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/6c65b214-b012-43ca-9cf1-de9685ed1e50/public_url) <br>
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
